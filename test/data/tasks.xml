@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<root>
+  <record>
+    <id>2</id>
+    <task>Mow the lawn yes</task>
+    <priority>2</priority>
+    <size>2</size>
+    <group>1</group>
+    <deadline/>
+    <status>2</status>
+    <flag/>
+    <submit>Update the TODO task</submit>
+  </record>
+  <record>
+    <id>3</id>
+    <task>Wash the car</task>
+    <priority>2</priority>
+    <size>2</size>
+    <group>1</group>
+    <deadline/>
+    <status/>
+    <flag/>
+  </record>
+  <record>
+    <id>4</id>
+    <task>Paint the fence 23</task>
+    <priority>1</priority>
+    <size>2</size>
+    <group>1</group>
+    <deadline/>
+    <status>1</status>
+    <flag/>
+    <submit>Update the TODO task</submit>
+  </record>
+</root>

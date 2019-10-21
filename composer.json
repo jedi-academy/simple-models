@@ -1,0 +1,32 @@
+{
+	"name": "simple-models",
+	"description": "Lightweight models for CodeIgniter 4",
+	"homepage": "https://github.com/jedi-academy/simple-models",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Jim Parry",
+			"role": "Developer"
+		}
+	],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/jedi-academy/simple-models"
+		}
+	],
+	"minimum-stability": "dev",
+	"require": {
+		"php" : ">=7.2"
+	},
+	"autoload": {
+		"psr-4": {
+			"Simple\\": "Simple"
+		}
+	},
+	"scripts": {
+		"post-update-cmd": [
+			"composer dump-autoload"
+		]
+	}
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<tasks>
+  <task>
+    <id>1</id>
+    <task>Comp1234 assignment yes</task>
+    <priority>3</priority>
+    <size>2</size>
+    <group>2</group>
+    <deadline>20170219</deadline>
+    <status>1</status>
+    <flag/>
+    <submit>Update the TODO task</submit>
+  </task>
+  <task>
+    <id>2</id>
+    <task>Mow the lawn yes</task>
+    <priority>2</priority>
+    <size>2</size>
+    <group>1</group>
+    <deadline/>
+    <status>2</status>
+    <flag/>
+    <submit>Update the TODO task</submit>
+  </task>
+  <task>
+    <id>3</id>
+    <task>Wash the car</task>
+    <priority>2</priority>
+    <size>2</size>
+    <group>1</group>
+    <deadline/>
+    <status/>
+    <flag/>
+  </task>
+  <task>
+    <id>4</id>
+    <task>Paint the fence 23</task>
+    <priority>1</priority>
+    <size>2</size>
+    <group>1</group>
+    <deadline/>
+    <status>1</status>
+    <flag/>
+    <submit>Update the TODO task</submit>
+  </task>
+</tasks>
